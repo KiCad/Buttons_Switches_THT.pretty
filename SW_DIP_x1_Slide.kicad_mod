@@ -1,6 +1,6 @@
 (module SW_DIP_x1_Slide (layer F.Cu) (tedit 54C4BC96)
   (descr "CTS Electrocomponents, Series 206/208")
-  (fp_text reference Switch_DIP_x1_Slide (at 0 -10) (layer F.SilkS)
+  (fp_text reference SW_DIP_x1_Slide (at 0 -10) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at 0.5 2.4) (layer F.SilkS)

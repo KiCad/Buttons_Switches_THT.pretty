@@ -19,7 +19,7 @@
   (fp_line (start -6.35 -5.715) (end -5.715 -6.35) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole circle (at -5.08 -2.54) (size 2.54 2.54) (drill 1.143) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 5.08 2.54) (size 2.54 2.54) (drill 1.143) (layers *.Cu *.Mask F.SilkS))
-  (model Discret/SW_PUSH.wrl
+  (model Buttons_Switches_ThroughHole/SW_PUSH.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
