@@ -1,9 +1,9 @@
 (module SW_DIP_x2_Slide (layer F.Cu) (tedit 54BB66BF)
   (descr "CTS Electrocomponents, Series 206/208")
-  (fp_text reference SW_DIP_x2_Slide (at 1.25 -10) (layer F.SilkS)
+  (fp_text reference REF** (at 1.25 -10) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 2 2.4) (layer F.SilkS)
+  (fp_text value SW_DIP_x2_Slide (at 2 2.4) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
    (fp_line (start -0.64 -5.84) (end -0.64 -1.78) (layer F.SilkS) (width 0.15))
@@ -28,7 +28,7 @@
   (pad 4 thru_hole oval (at 0.0 -7.62) (size 1.524 1.824) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole oval (at 2.54 0) (size 1.524 1.824) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole oval (at 2.54 -7.62) (size 1.524 1.824) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
-  (model Buttons_Switches_ThroughHole/SW_DIP_x2_Slide.wrl
+  (model Buttons_Switches_ThroughHole.3dshapes/SW_DIP_x2_Slide.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

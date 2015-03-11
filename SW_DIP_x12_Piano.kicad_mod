@@ -1,9 +1,9 @@
 (module SW_DIP_x12_Piano (layer F.Cu) (tedit 54BB66BF)
   (descr "CTS Electrocomponents, Series 206/208")
-  (fp_text reference SW_DIP_x12_Piano (at 13.95 -10) (layer F.SilkS)
+  (fp_text reference REF** (at 13.95 -10) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 2 4) (layer F.SilkS)
+  (fp_text value SW_DIP_x12_Piano (at 2 4) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -0.7 1.22) (end -0.7 2.59) (layer F.SilkS) (width 0.15))
@@ -74,7 +74,7 @@
   (pad 14 thru_hole oval (at 25.4 -7.62) (size 1.524 1.824) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
   (pad 12 thru_hole oval (at 27.94 0) (size 1.524 1.824) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
   (pad 13 thru_hole oval (at 27.94 -7.62) (size 1.524 1.824) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
-  (model Buttons_Switches_ThroughHole/SW_DIP_x12_Piano.wrl
+  (model Buttons_Switches_ThroughHole.3dshapes/SW_DIP_x12_Piano.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
