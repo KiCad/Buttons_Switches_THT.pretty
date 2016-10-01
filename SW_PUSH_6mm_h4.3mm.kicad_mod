@@ -1,10 +1,10 @@
-(module SW_PUSH_6mm
+(module SW_PUSH_6mm_h4.3mm
   (layer F.Cu)
   (tedit 57F02B88)
-  (descr https://www.omron.com/ecb/products/pdf/en-b3f.pdf)
+  (descr "tactile push button, 6x6mm e.g. PHAP33xx series, height=4.3mm")
   (tags "tact sw push 6mm")
   (fp_text reference REF** (at 3.25 -2) (layer F.SilkS) (effects (font (size 1 1) (thickness 0.15))))
-  (fp_text value SW_PUSH_6mm (at 3.75 6.7) (layer F.Fab) (effects (font (size 1 1) (thickness 0.15))))
+  (fp_text value SW_PUSH_6mm_h4.3mm (at 3.75 6.7) (layer F.Fab) (effects (font (size 1 1) (thickness 0.15))))
   (fp_line (start 3.25 -0.75) (end 6.25 -0.75) (layer F.Fab) (width 0.15))
   (fp_line (start 6.25 -0.75) (end 6.25 5.25) (layer F.Fab) (width 0.15))
   (fp_line (start 6.25 5.25) (end 0.25 5.25) (layer F.Fab) (width 0.15))
@@ -31,4 +31,4 @@
   (pad 1 thru_hole circle (at 0 0 90) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 6.5 4.5 90) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 6.5 0 90) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
-  (model Buttons_Switches_ThroughHole.3dshapes/SW_PUSH_6mm.wrl (at (xyz 0.005 -0.175 0)) (scale (xyz 0.3937 0.3937 0.3937)) (rotate (xyz 0 0 0))))
+  (model Buttons_Switches_ThroughHole.3dshapes/SW_PUSH_6mm_h4.3mm.wrl (at (xyz 0.005 -0.175 0)) (scale (xyz 0.3937 0.3937 0.3937)) (rotate (xyz 0 0 0))))
