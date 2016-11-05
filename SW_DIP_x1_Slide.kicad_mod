@@ -19,8 +19,8 @@
   (fp_line (start -0.64 -1.78) (end 0.64 -1.78) (layer F.SilkS) (width 0.15))
   (fp_line (start 0.64 -1.78) (end 0.64 -5.84) (layer F.SilkS) (width 0.15))
   (fp_line (start 0.64 -5.84) (end -0.64 -5.84) (layer F.SilkS) (width 0.15))
-  (pad 1 thru_hole rect (at 0 0) (size 1.524 1.824) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
-  (pad 2 thru_hole oval (at 0 -7.62) (size 1.524 1.824) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole rect (at 0 0) (size 1.524 1.824) (drill 0.762) (layers *.Cu *.Mask))
+  (pad 2 thru_hole oval (at 0 -7.62) (size 1.524 1.824) (drill 0.762) (layers *.Cu *.Mask))
   (model Buttons_Switches_ThroughHole.3dshapes/SW_DIP_x1_Slide.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
