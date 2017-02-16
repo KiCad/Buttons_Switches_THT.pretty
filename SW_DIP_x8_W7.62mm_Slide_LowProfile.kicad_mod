@@ -116,7 +116,7 @@
   (pad 15 thru_hole oval (at 7.62 2.54) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 8 thru_hole oval (at 0 17.78) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 16 thru_hole oval (at 7.62 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model Buttons_Switches_ThroughHole.3dshapes/SW_DIP_x8_W7.62mm_Slide_LowProfile.wrl
+  (model Buttons_Switches_THT.3dshapes/SW_DIP_x8_W7.62mm_Slide_LowProfile.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
