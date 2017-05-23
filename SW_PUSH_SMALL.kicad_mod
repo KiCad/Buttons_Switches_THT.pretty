@@ -1,6 +1,6 @@
 (module SW_PUSH_SMALL (layer F.Cu) (tedit 5923F252)
-  (descr "")
-  (tags "")
+  (descr "SW PUSH SMALL")
+  (tags "SW PUSH SMALL")
   (fp_text reference REF** (at -3.59 -2.08) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

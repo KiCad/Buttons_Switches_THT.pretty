@@ -1,5 +1,5 @@
 (module SW_Micro_SPST_Angled (layer F.Cu) (tedit 5923F252)
-  (descr "")
+  (descr "SW Micro SPST Angled")
   (tags "Switch Micro SPST")
   (fp_text reference REF** (at 2.54 -2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
