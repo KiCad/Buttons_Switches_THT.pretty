@@ -1,5 +1,5 @@
 (module Push_E-Switch_KS01Q01 (layer F.Cu) (tedit 592454DE)
-  (descr "E-Switch KS01Q01")
+  (descr "E-Switch KS01Q01 http://spec_sheets.e-switch.com/specs/29-KS01Q01.pdf")
   (tags "Push Button")
   (fp_text reference REF** (at 2.5 -4.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
