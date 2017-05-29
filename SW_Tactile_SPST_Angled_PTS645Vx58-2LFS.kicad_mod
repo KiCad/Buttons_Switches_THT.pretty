@@ -4,7 +4,7 @@
   (fp_text reference REF** (at 2.25 1.68) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value SW_Tactile_SPST_Angled_PTS645Vx58-2LF (at 2.25 5.38988) (layer F.Fab)
+  (fp_text value SW_Tactile_SPST_Angled_PTS645Vx58-2LFS (at 2.25 5.38988) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 0.5 -5.85) (end 0.5 -2.59) (layer F.Fab) (width 0.1))
