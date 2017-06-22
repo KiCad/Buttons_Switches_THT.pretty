@@ -1,4 +1,4 @@
-(module SW_PUSH_LCD_E3_SAxxxx_SocketPins (layer F.Cu) (tedit 583F48EC)
+(module SW_PUSH_LCD_E3_SAxxxx_SocketPins (layer F.Cu) (tedit 594B9BB5)
   (descr "Switch with LCD screen E3 SAxxxx")
   (tags "switch normally-open pushbutton push-button LCD")
   (fp_text reference REF** (at -17.75 -6.75) (layer F.SilkS)
